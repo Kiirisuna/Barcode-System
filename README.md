@@ -1,5 +1,3 @@
-# Barcode-System
- 
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,16 +16,16 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!--<br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a>-->
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Barcode-System</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Barcode scanning system with mongoDB back-end
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
